@@ -1,4 +1,4 @@
-# Hi, I'm Alex T 👋
+
 
 **AI Solutions Specialist** based in London — I design and ship practical AI workflows that move real business metrics: voice agents, multi-agent systems, RAG, and n8n automation.
 
@@ -43,9 +43,6 @@ Pluggable voice-provider interface (OpenAI Realtime / LiveKit / Vapi). Docker Co
 
 ---
 
-## 📫 Let's talk
-
 - **LinkedIn:** [linkedin.com/in/t-alex-t](https://linkedin.com/in/t-alex-t)
-- **Email:** t.alex_t@yahoo.com
 
-Currently open to **AI Solutions Specialist / AI Automation Specialist / AI Consultant / AI Product Manager** roles. Remote, hybrid, or London-based.
+Currently open to **AI Solutions Specialist / AI Automation Specialist / AI Consultant / AI Product Manager** roles. Remote.

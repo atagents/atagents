@@ -1,4 +1,4 @@
-**AI Systems Engineer at TelarLabs Ltd** (London) – I design and ship production AI systems that move real business metrics: real-time voice agents, multi-agent orchestration, RAG, and workflow automation.
+**AI Systems Engineer at TelarLabs Ltd** (UK) – I design and ship production AI systems that move real business metrics: real-time voice agents, multi-agent orchestration, RAG, and workflow automation.
 
 10+ years across IT operations, project delivery, and frontend (React / TypeScript / Next.js) before going full-time on applied AI. I design the architecture, wire the integrations, and own the result in production. AI-assisted development is my default workflow – Claude Code daily.
 
@@ -45,7 +45,6 @@ Pluggable voice-provider interface (OpenAI Realtime / LiveKit / Vapi). Docker Co
 ## 📫 Contact
 
 - **Web:** [telarlabs.co.uk](https://telarlabs.co.uk)
-- **Email:** alex@telarlabs.co.uk
-- **LinkedIn:** [linkedin.com/in/t-alex-t](https://linkedin.com/in/t-alex-t)
 
-Currently open to **AI Systems Engineer / Applied AI Engineer / AI Solutions Engineer / Forward Deployed Engineer** roles – London or remote (UK timezone).
+
+Open to **AI Systems Engineer / Applied AI Engineer / AI Solutions Engineer / Forward Deployed Engineer** roles
